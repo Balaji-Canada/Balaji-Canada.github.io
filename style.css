@@ -57,7 +57,7 @@ h2 {
     border: 3px solid black;
     margin-top:3px;
     border-radius: 10px;
-    height: 90px; 
+    height: 145px; 
     display: flex;
     font-size: 30px;
 }
@@ -111,21 +111,18 @@ h2 {
     color: rgb(20, 87, 187);
     font-weight: 900;
 }
-#self {
-	height: 100px;
-	width:200px;
-}
+
 .buttons span{
     color: rgb(12, 83, 189);
 } 
 
 #play {
     cursor: pointer;
-	margin-left: 250px;
+	margin-left: 50px;
 }
 #reset {
     cursor: pointer;
-	margin-left: 100px;
+	margin-left: 10px;
 }
 button {
     height: 30px;
